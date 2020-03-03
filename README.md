@@ -1,2 +1,2 @@
-# fc-presets-lint
-Front Core presets (like eslint)
+# rui-presets-lint
+Reagentum UI presets (like eslint)
